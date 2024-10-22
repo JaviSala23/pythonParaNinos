@@ -106,9 +106,3 @@ Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.m
 - A todos los educadores que aportaron ideas
 - A la comunidad Python
 - A los niños que probaron el material
-
-## 📞 Contacto
-
-- Twitter: [@tuhandle]()
-- Email: tuemail@ejemplo.com
-- Web: [tusitioweb.com]()
