@@ -69,14 +69,12 @@ Cada capítulo incluye:
 ## 🗂️ Estructura del Repositorio
 
 ```
-python-para-ninos/
+pythonParaNinos/
 ├── capitulos/
-│   ├── 01_primeros_pasos/
-│   ├── 02_turtle_graphics/
-│   └── 03_juegos_simples/
-├── ejercicios/
-├── proyectos/
-└── recursos/
+    ├── 01_primeros_pasos/
+    ├── 02_turtle_graphics/
+    └── 03_juegos_simples/
+
 ```
 
 ## 👨‍👩‍👧‍👦 Para Padres y Profesores
