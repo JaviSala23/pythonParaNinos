@@ -1,5 +1,5 @@
-#🎨 Capítulo 2: ¡Dibujando con Python Turtle!
-##🎯 Objetivos del Capítulo
+# 🎨 Capítulo 2: ¡Dibujando con Python Turtle!
+## 🎯 Objetivos del Capítulo
 
 En este capítulo aprenderás:
 
