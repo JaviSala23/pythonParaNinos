@@ -109,5 +109,5 @@ archivo.close()
 
 ## 🎉 Retos Divertidos
 
-    1 - **Haz una lista de tus juegos favoritos**: crea un programa que te pida tus juegos favoritos, los guarde en un archivo y después los muestre.
-    2 - **Agrega tus amigos a una lista de cumpleaños**: pide el nombre de un amigo y su cumpleaños, guárdalos en un archivo, y luego muestra la lista completa.
+    - **Haz una lista de tus juegos favoritos**: crea un programa que te pida tus juegos favoritos, los guarde en un archivo y después los muestre.
+    - **Agrega tus amigos a una lista de cumpleaños**: pide el nombre de un amigo y su cumpleaños, guárdalos en un archivo, y luego muestra la lista completa.
