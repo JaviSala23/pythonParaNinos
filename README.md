@@ -74,6 +74,7 @@ pythonParaNinos/
     ├── Capítulo 1: ¡Aventuras en Python!/
     ├── Capítulo 2: ¡Dibujando con Python Turtle/
     └── Capítulo 3: ¡Creando Mini-Juegos con Python!/
+    └── Capítulo 4: ¡Creando Listas y Guardando Secretos!/
 
 ```
 
