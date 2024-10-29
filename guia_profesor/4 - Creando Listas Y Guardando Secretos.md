@@ -1,9 +1,9 @@
-#Guía del Profesor para Capítulo 4 - ¡Creando Listas y Guardando Secretos!
-##📚 Objetivo del Capítulo
+# Guía del Profesor para Capítulo 4 - ¡Creando Listas y Guardando Secretos!
+## 📚 Objetivo del Capítulo
 
 - Objetivo: Enseñar a los niños a usar listas y archivos para almacenar información de manera simple, introduciéndolos a la manipulación de datos básicos.
 
-##📝 Plan de la Clase
+## 📝 Plan de la Clase
 
     ### Introducción a las Listas (10 minutos)
         - Explicar con ejemplos cotidianos qué es una lista (mochila o caja de cosas).
