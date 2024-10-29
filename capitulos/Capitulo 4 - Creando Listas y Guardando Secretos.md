@@ -1,4 +1,4 @@
-## 📂 ¡Capítulo 4: Creando Listas y Guardando Secretos!
+# 📂 ¡Capítulo 4: Creando Listas y Guardando Secretos!
 
 ## 🎯 Objetivos del Capítulo
 ¡Hoy aprenderemos algo emocionante! Vamos a:
