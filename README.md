@@ -26,6 +26,13 @@ Un libro interactivo y divertido para enseñar programación en Python a niños 
    - ⚡ Trabajar con condiciones (if/else)
    - 📊 Manejar puntuaciones y niveles
 
+### 📂 Capitulo 4: ¡Creando Listas y Guardando Secretos!
+
+   - ✏️ Crear listas para guardar varias cosas
+   - 📂 Guardar información secreta en un archivo (como si fuera un diario)
+   - 🔄 Leer y escribir en archivos, ¡para poder guardar y ver lo que hemos escrito!
+
+
 ## 🔧 Requisitos
 
 - Python 3.8 o superior
