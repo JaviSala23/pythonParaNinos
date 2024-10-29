@@ -8,23 +8,23 @@ Un libro interactivo y divertido para enseñar programación en Python a niños 
 
 ## 📚 Contenido del Curso
 
-### Módulo 1: Primeros Pasos
-- Instalación de Python y VSCode
-- Tu primer programa
-- Variables y tipos básicos
-- Input y Output
+### 🚀 Capítulo 1: ¡Aventuras en Python!
+   - 🖥️ Qué es programar y para qué sirve
+   - 🐍 Cómo instalar Python y VSCode
+   - 📝 Crear tu primer programa
+   - ✨ Usar comandos básicos de Python
 
-### Módulo 2: Diversión con Turtle
-- Introducción a gráficos
-- Dibujo básico
-- Formas y colores
-- Mini proyectos artísticos
+### 🎨 Capítulo 2: ¡Dibujando con Python Turtle!
+   - 🐢 Qué es Python Turtle y cómo usarlo
+   - ✏️ Dibujar formas básicas
+   - 🌈 Usar colores y estilos
+   - 🎮 Crear mini-juegos y arte interactivo
 
-### Módulo 3: Juegos Simples
-- Adivinanza de números
-- Quiz interactivo
-- Carrera de tortugas
-- ¡Y más!
+### 🎮 Capítulo 3: ¡Creando Mini-Juegos con Python!
+   - 🎲 Crear juegos interactivos simples
+   - 🔄 Usar bucles while y for
+   - ⚡ Trabajar con condiciones (if/else)
+   - 📊 Manejar puntuaciones y niveles
 
 ## 🔧 Requisitos
 
@@ -71,9 +71,9 @@ Cada capítulo incluye:
 ```
 pythonParaNinos/
 ├── capitulos/
-    ├── 01_primeros_pasos/
-    ├── 02_turtle_graphics/
-    └── 03_juegos_simples/
+    ├── Capítulo 1: ¡Aventuras en Python!/
+    ├── Capítulo 2: ¡Dibujando con Python Turtle/
+    └── Capítulo 3: ¡Creando Mini-Juegos con Python!/
 
 ```
 
